@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
+- Welcome to my Profile!
 
 - 🔭 I’m currently working on - <a href="https://github.com/Project-Sloth">**Project-Sloth**</a>
 - 🌱 I’m currently learning LUA
