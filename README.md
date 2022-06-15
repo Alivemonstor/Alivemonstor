@@ -7,7 +7,7 @@
 - 💬 Ask me about Script Development
 - 📫 How to reach me: Alivemonstor#0015
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/281138639751217162?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=dsicord.gg/unifiedrp...)](https://discord.com/users/281138639751217162)
+[![Discord Presence](https://lanyard.cnrad.dev/api/281138639751217162?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=discord.gg/unifiedrp...)](https://discord.com/users/281138639751217162)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alivemonstor&show_icons=true&theme=tokyonight)
