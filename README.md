@@ -8,7 +8,7 @@
 - 📫 How to reach me: Alivemonstor#0015
 
 <a href="https://discord.com/users/785699347223412768">
-  <img src="https://lanyard-profile-readme.vercel.app/api/281138639751217162?hideTimestamp=true&idleMessage=Discord.gg/unifiedrp." align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/281138639751217162?hideTimestamp=true&idleMessage=Discord.gg/unifiedrp.">
 </a>
 
 
